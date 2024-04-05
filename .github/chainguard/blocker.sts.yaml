@@ -4,4 +4,4 @@ claim_pattern:
   email: '.*@jason-chainguard.iam.gserviceaccount.com'
 
 permissions:
-  repository: write
+  checks: write
